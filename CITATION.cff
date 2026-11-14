@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If this skill contributed to your work, please cite this repository."
+title: "Scientific Job Doctor"
+type: software
+authors:
+  - name: "horincham"
+repository-code: "https://github.com/horincham/scientific-job-doctor"
+license: MIT
+keywords:
+  - Gaussian
+  - computational chemistry
+  - job diagnosis
+  - Codex skill
